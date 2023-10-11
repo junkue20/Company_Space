@@ -1,4 +1,5 @@
 <img src='./src/assets/readme/icon.png'>
+
 # 🚀 Company Space 🚀
 
 <br>
@@ -10,23 +11,23 @@
 
 ## 🪐 프로젝트 기간
 
----
-
 **2023.09.08 ~ 2023.09.22**
 
 <br>
 
-## 🪐 배포 링크
+## 🪐 관련 링크
 
----
+### [배포 링크]
 
 <a href="https://glittering-speculoos-415dd0.netlify.app/">🚀 Company Space 🚀</a>
+
+### [레포지토리 링크]
+
+<a href="https://github.com/YongYong21/Toy1_team2">🚀 Company Space Repo 🚀</a>
 
 <br>
 
 ## 🪐 기술 스택 / 라이브러리
-
----
 
 ✔️ **언어**
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
@@ -49,8 +50,6 @@
 
 ## 🪐 팀원 정보
 
----
-
 ### 🏅2조 - 대박징조
 
 <table>
@@ -66,8 +65,8 @@
 </table>
 
 <br>
+
 ## 🪐 구현 사항 체크
----
 
 ### 🌟 필수 구현 사항
 
@@ -94,8 +93,6 @@
 
 ## 🪐 페이지 및 역할, 기능 소개
 
----
-
 ### 💫 화면 구성
 
 <table>
@@ -120,8 +117,6 @@
 <br>
 
 ### 💫 각 조원 별 역할, 기능 소개
-
----
 
 <details>
 <summary>🌟 메인 페이지, 헤더, 푸터 - 정범환</summary>
@@ -486,8 +481,6 @@
 ## 🪐 아쉬운 부분
 
 리팩토링 기간이 있다면 추가로 수행 할 내용들 입니다❗
-
----
 
 - **반응형 구현 X**
   <br>
